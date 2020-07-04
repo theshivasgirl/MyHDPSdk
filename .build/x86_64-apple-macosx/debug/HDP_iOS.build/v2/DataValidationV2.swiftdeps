@@ -1,0 +1,448 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "validateMacAddress"
+- "validateAnid"
+- "validateSnid"
+provides-nominal:
+provides-member:
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "validate"]
+provides-dynamic-lookup:
+- "validate"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "<="
+- !private "=="
+- !private ">="
+- !private "EventValidationException"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "MsgPackSpecificationV2"
+- "String"
+- !private "StringLiteralType"
+- "UInt8"
+- !private "fieldNotOptional"
+- !private "throwIfFalse"
+- "validateAnid"
+- "validateMacAddress"
+- !private "validateMsgType"
+- !private "validateNumericString"
+- "validateSnid"
+- !private "validateStringLengthExact"
+- !private "validateStringLengthLessThanOrEqual"
+- !private "validateUri"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["SK", "count"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "count"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["Se", "API_DEFINED_MSG_TYPE"]
+- !private ["Se", "MsgPackSpecificationV2"]
+- !private ["Se", "String"]
+- !private ["Se", "anid"]
+- !private ["Se", "bssid"]
+- !private ["Se", "connection_class"]
+- !private ["Se", "connection_data"]
+- !private ["Se", "connection_time"]
+- !private ["Se", "content_type"]
+- !private ["Se", "content_uri"]
+- !private ["Se", "count"]
+- !private ["Se", "dest"]
+- !private ["Se", "device_id"]
+- !private ["Se", "fieldNotOptional"]
+- !private ["Se", "init"]
+- !private ["Se", "mode"]
+- !private ["Se", "msg_type"]
+- !private ["Se", "nanos"]
+- !private ["Se", "packetsReceived"]
+- !private ["Se", "packetsSent"]
+- ["Se", "routerId"]
+- ["Se", "routerMac"]
+- !private ["Se", "router_id"]
+- !private ["Se", "screenActive"]
+- !private ["Se", "seconds"]
+- !private ["Se", "signalStrength"]
+- !private ["Se", "snid"]
+- !private ["Se", "source"]
+- !private ["Se", "throwIfFalse"]
+- !private ["Se", "timestamp"]
+- !private ["Se", "tv_id"]
+- !private ["Se", "validate"]
+- !private ["Se", "validateAnid"]
+- !private ["Se", "validateMacAddress"]
+- !private ["Se", "validateMsgType"]
+- !private ["Se", "validateSnid"]
+- !private ["Se", "validateStringLengthLessThanOrEqual"]
+- !private ["Se", "validateUri"]
+- !private ["Se", "wifi_connected"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "String"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "device_id"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "fieldNotOptional"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "msg_type"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "packetsReceived"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "packetsSent"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "router_id"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "signalStrength"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "throwIfFalse"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "timestamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "validateMacAddress"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "validateMsgType"]
+- !private ["SE", "API_DEFINED_MSG_TYPE"]
+- !private ["SE", "MsgPackSpecificationV2"]
+- !private ["SE", "String"]
+- !private ["SE", "anid"]
+- !private ["SE", "bssid"]
+- !private ["SE", "connection_class"]
+- !private ["SE", "connection_data"]
+- !private ["SE", "connection_time"]
+- !private ["SE", "content_type"]
+- !private ["SE", "content_uri"]
+- !private ["SE", "count"]
+- !private ["SE", "dest"]
+- !private ["SE", "device_id"]
+- !private ["SE", "fieldNotOptional"]
+- !private ["SE", "init"]
+- !private ["SE", "mode"]
+- !private ["SE", "msg_type"]
+- !private ["SE", "nanos"]
+- !private ["SE", "packetsReceived"]
+- !private ["SE", "packetsSent"]
+- ["SE", "routerId"]
+- ["SE", "routerMac"]
+- !private ["SE", "router_id"]
+- !private ["SE", "screenActive"]
+- !private ["SE", "seconds"]
+- !private ["SE", "signalStrength"]
+- !private ["SE", "snid"]
+- !private ["SE", "source"]
+- !private ["SE", "throwIfFalse"]
+- !private ["SE", "timestamp"]
+- !private ["SE", "tv_id"]
+- !private ["SE", "validate"]
+- !private ["SE", "validateAnid"]
+- !private ["SE", "validateMacAddress"]
+- !private ["SE", "validateMsgType"]
+- !private ["SE", "validateSnid"]
+- !private ["SE", "validateStringLengthLessThanOrEqual"]
+- !private ["SE", "validateUri"]
+- !private ["SE", "wifi_connected"]
+- !private ["SQ", "count"]
+- !private ["SQ", "init"]
+- !private ["SQ", "nanos"]
+- ["SQ", "routerId"]
+- ["SQ", "routerMac"]
+- !private ["SQ", "seconds"]
+- !private ["SQ", "throwIfFalse"]
+- !private ["SQ", "validate"]
+- !private ["SQ", "validateMacAddress"]
+- !private ["SQ", "validateStringLengthLessThanOrEqual"]
+- !private ["s5ErrorP", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "String"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "content_type"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "dest"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "fieldNotOptional"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "msg_type"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "source"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "throwIfFalse"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "validateMsgType"]
+- !private ["7HDP_iOS24EventValidationExceptionV", "deinit"]
+- !private ["7HDP_iOS24EventValidationExceptionV", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "count"]
+- !private ["SH", "init"]
+- !private ["7HDP_iOS6IEventP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS6IEventP", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS6IEventP", "String"]
+- !private ["7HDP_iOS6IEventP", "connection_class"]
+- !private ["7HDP_iOS6IEventP", "connection_data"]
+- !private ["7HDP_iOS6IEventP", "connection_time"]
+- !private ["7HDP_iOS6IEventP", "content_type"]
+- !private ["7HDP_iOS6IEventP", "content_uri"]
+- !private ["7HDP_iOS6IEventP", "dest"]
+- !private ["7HDP_iOS6IEventP", "device_id"]
+- !private ["7HDP_iOS6IEventP", "fieldNotOptional"]
+- !private ["7HDP_iOS6IEventP", "mode"]
+- !private ["7HDP_iOS6IEventP", "msg_type"]
+- !private ["7HDP_iOS6IEventP", "packetsReceived"]
+- !private ["7HDP_iOS6IEventP", "packetsSent"]
+- !private ["7HDP_iOS6IEventP", "router_id"]
+- !private ["7HDP_iOS6IEventP", "screenActive"]
+- !private ["7HDP_iOS6IEventP", "signalStrength"]
+- !private ["7HDP_iOS6IEventP", "source"]
+- !private ["7HDP_iOS6IEventP", "throwIfFalse"]
+- !private ["7HDP_iOS6IEventP", "timestamp"]
+- !private ["7HDP_iOS6IEventP", "validateMacAddress"]
+- !private ["7HDP_iOS6IEventP", "validateMsgType"]
+- !private ["7HDP_iOS6IEventP", "validateUri"]
+- !private ["7HDP_iOS6IEventP", "wifi_connected"]
+- !private ["7HDP_iOS12IValidatableP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS12IValidatableP", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS12IValidatableP", "String"]
+- !private ["7HDP_iOS12IValidatableP", "anid"]
+- !private ["7HDP_iOS12IValidatableP", "bssid"]
+- !private ["7HDP_iOS12IValidatableP", "connection_class"]
+- !private ["7HDP_iOS12IValidatableP", "connection_data"]
+- !private ["7HDP_iOS12IValidatableP", "connection_time"]
+- !private ["7HDP_iOS12IValidatableP", "content_type"]
+- !private ["7HDP_iOS12IValidatableP", "content_uri"]
+- !private ["7HDP_iOS12IValidatableP", "dest"]
+- !private ["7HDP_iOS12IValidatableP", "device_id"]
+- !private ["7HDP_iOS12IValidatableP", "fieldNotOptional"]
+- !private ["7HDP_iOS12IValidatableP", "mode"]
+- !private ["7HDP_iOS12IValidatableP", "msg_type"]
+- !private ["7HDP_iOS12IValidatableP", "nanos"]
+- !private ["7HDP_iOS12IValidatableP", "packetsReceived"]
+- !private ["7HDP_iOS12IValidatableP", "packetsSent"]
+- ["7HDP_iOS12IValidatableP", "routerId"]
+- ["7HDP_iOS12IValidatableP", "routerMac"]
+- !private ["7HDP_iOS12IValidatableP", "router_id"]
+- !private ["7HDP_iOS12IValidatableP", "screenActive"]
+- !private ["7HDP_iOS12IValidatableP", "seconds"]
+- !private ["7HDP_iOS12IValidatableP", "signalStrength"]
+- !private ["7HDP_iOS12IValidatableP", "snid"]
+- !private ["7HDP_iOS12IValidatableP", "source"]
+- !private ["7HDP_iOS12IValidatableP", "throwIfFalse"]
+- !private ["7HDP_iOS12IValidatableP", "timestamp"]
+- !private ["7HDP_iOS12IValidatableP", "tv_id"]
+- !private ["7HDP_iOS12IValidatableP", "validate"]
+- !private ["7HDP_iOS12IValidatableP", "validateAnid"]
+- !private ["7HDP_iOS12IValidatableP", "validateMacAddress"]
+- !private ["7HDP_iOS12IValidatableP", "validateMsgType"]
+- !private ["7HDP_iOS12IValidatableP", "validateSnid"]
+- !private ["7HDP_iOS12IValidatableP", "validateStringLengthLessThanOrEqual"]
+- !private ["7HDP_iOS12IValidatableP", "validateUri"]
+- !private ["7HDP_iOS12IValidatableP", "wifi_connected"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "String"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "connection_class"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "device_id"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "fieldNotOptional"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "msg_type"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "throwIfFalse"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "timestamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "validateMacAddress"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "validateMsgType"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "wifi_connected"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "String"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "connection_data"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "connection_time"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "device_id"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "fieldNotOptional"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "msg_type"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "throwIfFalse"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "timestamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "validateMacAddress"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "validateMsgType"]
+- !private ["s10MirrorPathP", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "DeviceTrafficEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Event"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "MDConnectionEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "MDStatsEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "RouterId"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVMediaControllerEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVScreenEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVSource"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TimeStamp"]
+- !private ["SM", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["Sk", "count"]
+- !private ["Sm", "count"]
+- !private ["Sm", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "routerId"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "routerMac"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "validateMacAddress"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "validateStringLengthLessThanOrEqual"]
+- !private ["ST", "count"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "String"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "content_uri"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "fieldNotOptional"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "mode"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "msg_type"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "source"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "validateMsgType"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "validateUri"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "String"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "fieldNotOptional"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "msg_type"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "screenActive"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "source"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "validateMsgType"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "anid"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "bssid"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "fieldNotOptional"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "router_id"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "snid"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "timestamp"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "tv_id"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "validateAnid"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "validateMacAddress"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "validateSnid"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "nanos"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "seconds"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "throwIfFalse"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "validate"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC"
+- "SE"
+- "SQ"
+- !private "s5ErrorP"
+- "7HDP_iOS22MsgPackSpecificationV2O5EventC"
+- !private "7HDP_iOS24EventValidationExceptionV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "7HDP_iOS6IEventP"
+- "7HDP_iOS12IValidatableP"
+- !private "s25LosslessStringConvertibleP"
+- "7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC"
+- !private "s10MirrorPathP"
+- "7HDP_iOS22MsgPackSpecificationV2O"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sk"
+- !private "Sm"
+- "7HDP_iOS22MsgPackSpecificationV2O8RouterIdO"
+- !private "ST"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC"
+- !private "7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO"
+- "7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O8TVSourceC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "7HDP_iOS22MsgPackSpecificationV2O9TimeStampV"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "27ab115fc0347e65cada06c5bdedeaa0"

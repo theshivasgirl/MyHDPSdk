@@ -1,0 +1,161 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DeviceTrafficEventBuilder"
+provides-nominal:
+- "7HDP_iOS25DeviceTrafficEventBuilderC"
+provides-member:
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", ""]
+provides-dynamic-lookup:
+- "build"
+- "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"
+- "iActive"
+- "iAuthenticationState"
+- "iDeviceId"
+- "iPacketsReceived"
+- "iPacketsSent"
+- "iSignalStrength"
+- "withActive"
+- "withAuthenticationState"
+- "withDeviceId"
+- "withPacketsReceived"
+- "withPacketsSent"
+- "withSignalStrength"
+depends-top-level:
+- "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "CommonBuilder"
+- "DeviceTrafficEventBuilder"
+- "Int"
+- "Int64"
+- "MsgPackSpecificationV2"
+- "Optional"
+- !private "String"
+- !private "StringLiteralType"
+- "UInt8"
+- !private "checkAllFields"
+depends-member:
+- ["7HDP_iOS13CommonBuilderC", "Array"]
+- ["7HDP_iOS13CommonBuilderC", "Bool"]
+- ["7HDP_iOS13CommonBuilderC", "DeviceTrafficEventBuilder"]
+- ["7HDP_iOS13CommonBuilderC", "Int"]
+- ["7HDP_iOS13CommonBuilderC", "Int64"]
+- ["7HDP_iOS13CommonBuilderC", "MsgPackSpecificationV2"]
+- ["7HDP_iOS13CommonBuilderC", "Optional"]
+- !private ["7HDP_iOS13CommonBuilderC", "String"]
+- ["7HDP_iOS13CommonBuilderC", "UInt8"]
+- ["7HDP_iOS13CommonBuilderC", ""]
+- ["7HDP_iOS13CommonBuilderC", "build"]
+- !private ["7HDP_iOS13CommonBuilderC", "checkAllFields"]
+- ["7HDP_iOS13CommonBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- ["7HDP_iOS13CommonBuilderC", "iActive"]
+- ["7HDP_iOS13CommonBuilderC", "iAuthenticationState"]
+- ["7HDP_iOS13CommonBuilderC", "iDeviceId"]
+- ["7HDP_iOS13CommonBuilderC", "iPacketsReceived"]
+- ["7HDP_iOS13CommonBuilderC", "iPacketsSent"]
+- !private ["7HDP_iOS13CommonBuilderC", "iRouterId"]
+- ["7HDP_iOS13CommonBuilderC", "iSignalStrength"]
+- !private ["7HDP_iOS13CommonBuilderC", "iTimeStamp"]
+- ["7HDP_iOS13CommonBuilderC", "init"]
+- ["7HDP_iOS13CommonBuilderC", "withActive"]
+- ["7HDP_iOS13CommonBuilderC", "withAuthenticationState"]
+- ["7HDP_iOS13CommonBuilderC", "withDeviceId"]
+- ["7HDP_iOS13CommonBuilderC", "withPacketsReceived"]
+- ["7HDP_iOS13CommonBuilderC", "withPacketsSent"]
+- ["7HDP_iOS13CommonBuilderC", "withSignalStrength"]
+- ["s28CustomDebugStringConvertibleP", "none"]
+- ["s17CustomReflectableP", "none"]
+- !private ["Se", "API_DEFINED_MSG_TYPE"]
+- !private ["Se", "init"]
+- ["Se", "none"]
+- !private ["Se", "validate"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "validate"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "Array"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "Bool"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "DeviceTrafficEventBuilder"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "Int"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "Int64"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "MsgPackSpecificationV2"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "Optional"]
+- !private ["7HDP_iOS25DeviceTrafficEventBuilderC", "String"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "UInt8"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "build"]
+- !private ["7HDP_iOS25DeviceTrafficEventBuilderC", "checkAllFields"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "deinit"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "iActive"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "iAuthenticationState"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "iDeviceId"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "iPacketsReceived"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "iPacketsSent"]
+- !private ["7HDP_iOS25DeviceTrafficEventBuilderC", "iRouterId"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "iSignalStrength"]
+- !private ["7HDP_iOS25DeviceTrafficEventBuilderC", "iTimeStamp"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "init"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "withActive"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "withAuthenticationState"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "withDeviceId"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "withPacketsReceived"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "withPacketsSent"]
+- ["7HDP_iOS25DeviceTrafficEventBuilderC", "withSignalStrength"]
+- !private ["SE", "API_DEFINED_MSG_TYPE"]
+- !private ["SE", "init"]
+- ["SE", "none"]
+- !private ["SE", "validate"]
+- ["SQ", "none"]
+- ["s23ExpressibleByNilLiteralP", "none"]
+- ["SH", "none"]
+- !private ["7HDP_iOS6IEventP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS6IEventP", "init"]
+- !private ["7HDP_iOS6IEventP", "validate"]
+- !private ["7HDP_iOS12IValidatableP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS12IValidatableP", "init"]
+- !private ["7HDP_iOS12IValidatableP", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "DeviceTrafficEvent"]
+- ["Sq", "none"]
+- ["s21_ObjectiveCBridgeableP", "none"]
+depends-nominal:
+- "7HDP_iOS13CommonBuilderC"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "Se"
+- !private "7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC"
+- "7HDP_iOS25DeviceTrafficEventBuilderC"
+- "SE"
+- "SQ"
+- "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "7HDP_iOS6IEventP"
+- !private "7HDP_iOS12IValidatableP"
+- "7HDP_iOS22MsgPackSpecificationV2O"
+- "Sq"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c839c38881dd341f326c501975a921ea"

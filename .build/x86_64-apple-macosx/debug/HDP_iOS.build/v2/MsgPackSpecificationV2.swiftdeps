@@ -1,0 +1,626 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MsgPackSpecificationV2"
+provides-nominal:
+- "7HDP_iOS22MsgPackSpecificationV2O"
+- "7HDP_iOS22MsgPackSpecificationV2O5EventC"
+- "7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O8RouterIdO"
+- "7HDP_iOS22MsgPackSpecificationV2O8TVSourceC"
+- "7HDP_iOS22MsgPackSpecificationV2O9TimeStampV"
+- "7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO"
+- "7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC"
+provides-member:
+- ["7HDP_iOS22MsgPackSpecificationV2O", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", ""]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", ""]
+provides-dynamic-lookup:
+- "API_DEFINED_MSG_TYPE"
+- "active"
+- "anid"
+- "authenticationState"
+- "bssid"
+- "connection_class"
+- "connection_data"
+- "connection_time"
+- "content_type"
+- "content_uri"
+- "dest"
+- "device_id"
+- "encode"
+- "mode"
+- "msg_type"
+- "packetsReceived"
+- "packetsSent"
+- "payload"
+- "router_id"
+- "screenActive"
+- "signalStrength"
+- "snid"
+- "source"
+- "timestamp"
+- "tv_id"
+- "wifi_connected"
+depends-top-level:
+- "=="
+- "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CaseIterable"
+- "Codable"
+- "Decoder"
+- !private "DecodingError"
+- "Encoder"
+- "Equatable"
+- "FloatLiteralType"
+- "IEvent"
+- "IValidatable"
+- "Int"
+- "Int64"
+- "IntegerLiteralType"
+- "MsgPackSpecificationV2"
+- !private "Optional"
+- "String"
+- "StringLiteralType"
+- "UInt64"
+- "UInt8"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["s12CaseIterableP", "=="]
+- ["s12CaseIterableP", "AllCases"]
+- ["s12CaseIterableP", "RawValue"]
+- ["s12CaseIterableP", ""]
+- ["s12CaseIterableP", "_Default_AllCases"]
+- ["s12CaseIterableP", "_Default_RawValue"]
+- !private ["s12CaseIterableP", "_findStringSwitchCase"]
+- ["s12CaseIterableP", "_rawHashValue"]
+- ["s12CaseIterableP", "allCases"]
+- ["s12CaseIterableP", "encode"]
+- ["s12CaseIterableP", "hash"]
+- ["s12CaseIterableP", "hashValue"]
+- ["s12CaseIterableP", "init"]
+- ["s12CaseIterableP", "rawValue"]
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "none"]
+- !private ["s28CustomDebugStringConvertibleP", "some"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s17CustomReflectableP", "none"]
+- !private ["s17CustomReflectableP", "some"]
+- ["s23CustomStringConvertibleP", "=="]
+- !private ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["Se", "=="]
+- ["Se", "AllCases"]
+- !private ["Se", "Optional"]
+- ["Se", "RawValue"]
+- !private ["Se", "String"]
+- !private ["Se", "UInt8"]
+- ["Se", ""]
+- ["Se", "_Default_AllCases"]
+- ["Se", "_Default_RawValue"]
+- !private ["Se", "_findStringSwitchCase"]
+- ["Se", "_rawHashValue"]
+- !private ["Se", "active"]
+- ["Se", "allCases"]
+- !private ["Se", "anid"]
+- !private ["Se", "authenticationState"]
+- !private ["Se", "bssid"]
+- !private ["Se", "connection_class"]
+- !private ["Se", "connection_data"]
+- !private ["Se", "connection_time"]
+- !private ["Se", "content_type"]
+- !private ["Se", "content_uri"]
+- !private ["Se", "dest"]
+- !private ["Se", "device_id"]
+- ["Se", "encode"]
+- ["Se", "hash"]
+- ["Se", "hashValue"]
+- ["Se", "init"]
+- !private ["Se", "mode"]
+- !private ["Se", "msg_type"]
+- !private ["Se", "nanos"]
+- !private ["Se", "none"]
+- !private ["Se", "packetsReceived"]
+- !private ["Se", "packetsSent"]
+- !private ["Se", "payload"]
+- ["Se", "rawValue"]
+- ["Se", "routerId"]
+- ["Se", "routerMac"]
+- !private ["Se", "router_id"]
+- !private ["Se", "screenActive"]
+- !private ["Se", "seconds"]
+- !private ["Se", "signalStrength"]
+- !private ["Se", "snid"]
+- !private ["Se", "some"]
+- !private ["Se", "source"]
+- !private ["Se", "timestamp"]
+- !private ["Se", "tv_id"]
+- ["Se", "validate"]
+- !private ["Se", "wifi_connected"]
+- !private ["s7DecoderP", "container"]
+- !private ["s7DecoderP", "singleValueContainer"]
+- ["s13DecodingErrorO", "typeMismatch"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "API_DEFINED_MSG_TYPE"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "Array"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "Bool"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "CodingKeys"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "Int64"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "RouterId"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "TimeStamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "UInt8"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "active"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "authenticationState"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "device_id"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "msg_type"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "packetsReceived"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "packetsSent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "router_id"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "signalStrength"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "timestamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC", "validate"]
+- ["SE", "=="]
+- ["SE", "AllCases"]
+- !private ["SE", "Optional"]
+- ["SE", "RawValue"]
+- !private ["SE", "String"]
+- !private ["SE", "UInt8"]
+- ["SE", ""]
+- ["SE", "_Default_AllCases"]
+- ["SE", "_Default_RawValue"]
+- !private ["SE", "_findStringSwitchCase"]
+- ["SE", "_rawHashValue"]
+- !private ["SE", "active"]
+- ["SE", "allCases"]
+- !private ["SE", "anid"]
+- !private ["SE", "authenticationState"]
+- !private ["SE", "bssid"]
+- !private ["SE", "connection_class"]
+- !private ["SE", "connection_data"]
+- !private ["SE", "connection_time"]
+- !private ["SE", "content_type"]
+- !private ["SE", "content_uri"]
+- !private ["SE", "dest"]
+- !private ["SE", "device_id"]
+- ["SE", "encode"]
+- ["SE", "hash"]
+- ["SE", "hashValue"]
+- ["SE", "init"]
+- !private ["SE", "mode"]
+- !private ["SE", "msg_type"]
+- !private ["SE", "nanos"]
+- !private ["SE", "none"]
+- !private ["SE", "packetsReceived"]
+- !private ["SE", "packetsSent"]
+- !private ["SE", "payload"]
+- ["SE", "rawValue"]
+- ["SE", "routerId"]
+- ["SE", "routerMac"]
+- !private ["SE", "router_id"]
+- !private ["SE", "screenActive"]
+- !private ["SE", "seconds"]
+- !private ["SE", "signalStrength"]
+- !private ["SE", "snid"]
+- !private ["SE", "some"]
+- !private ["SE", "source"]
+- !private ["SE", "timestamp"]
+- !private ["SE", "tv_id"]
+- ["SE", "validate"]
+- !private ["SE", "wifi_connected"]
+- !private ["s7EncoderP", "container"]
+- !private ["s7EncoderP", "singleValueContainer"]
+- ["SQ", "=="]
+- ["SQ", "AllCases"]
+- !private ["SQ", "Optional"]
+- ["SQ", "RawValue"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UInt8"]
+- ["SQ", ""]
+- ["SQ", "_Default_AllCases"]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "allCases"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "encode"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- !private ["SQ", "nanos"]
+- !private ["SQ", "none"]
+- ["SQ", "rawValue"]
+- ["SQ", "routerId"]
+- ["SQ", "routerMac"]
+- !private ["SQ", "seconds"]
+- !private ["SQ", "some"]
+- ["SQ", "stringValue"]
+- ["SQ", "validate"]
+- ["s5ErrorP", "typeMismatch"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "API_DEFINED_MSG_TYPE"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "Array"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "CodingKeys"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "String"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "UInt8"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "content_type"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "dest"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "msg_type"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "payload"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "source"]
+- ["7HDP_iOS22MsgPackSpecificationV2O5EventC", "validate"]
+- !private ["s23ExpressibleByNilLiteralP", "none"]
+- !private ["s23ExpressibleByNilLiteralP", "some"]
+- ["SH", "=="]
+- ["SH", "AllCases"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_AllCases"]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- ["SH", "allCases"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "encode"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- !private ["SH", "none"]
+- ["SH", "rawValue"]
+- !private ["SH", "some"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- ["7HDP_iOS6IEventP", ""]
+- !private ["7HDP_iOS6IEventP", "active"]
+- !private ["7HDP_iOS6IEventP", "anid"]
+- !private ["7HDP_iOS6IEventP", "authenticationState"]
+- !private ["7HDP_iOS6IEventP", "bssid"]
+- !private ["7HDP_iOS6IEventP", "connection_class"]
+- !private ["7HDP_iOS6IEventP", "connection_data"]
+- !private ["7HDP_iOS6IEventP", "connection_time"]
+- !private ["7HDP_iOS6IEventP", "content_type"]
+- !private ["7HDP_iOS6IEventP", "content_uri"]
+- !private ["7HDP_iOS6IEventP", "dest"]
+- !private ["7HDP_iOS6IEventP", "device_id"]
+- ["7HDP_iOS6IEventP", "encode"]
+- ["7HDP_iOS6IEventP", "init"]
+- !private ["7HDP_iOS6IEventP", "mode"]
+- !private ["7HDP_iOS6IEventP", "msg_type"]
+- !private ["7HDP_iOS6IEventP", "packetsReceived"]
+- !private ["7HDP_iOS6IEventP", "packetsSent"]
+- !private ["7HDP_iOS6IEventP", "payload"]
+- !private ["7HDP_iOS6IEventP", "router_id"]
+- !private ["7HDP_iOS6IEventP", "screenActive"]
+- !private ["7HDP_iOS6IEventP", "signalStrength"]
+- !private ["7HDP_iOS6IEventP", "source"]
+- !private ["7HDP_iOS6IEventP", "timestamp"]
+- ["7HDP_iOS6IEventP", "validate"]
+- !private ["7HDP_iOS6IEventP", "wifi_connected"]
+- ["7HDP_iOS12IValidatableP", "=="]
+- !private ["7HDP_iOS12IValidatableP", "Optional"]
+- !private ["7HDP_iOS12IValidatableP", "String"]
+- !private ["7HDP_iOS12IValidatableP", "UInt8"]
+- ["7HDP_iOS12IValidatableP", ""]
+- !private ["7HDP_iOS12IValidatableP", "active"]
+- !private ["7HDP_iOS12IValidatableP", "anid"]
+- !private ["7HDP_iOS12IValidatableP", "authenticationState"]
+- !private ["7HDP_iOS12IValidatableP", "bssid"]
+- !private ["7HDP_iOS12IValidatableP", "connection_class"]
+- !private ["7HDP_iOS12IValidatableP", "connection_data"]
+- !private ["7HDP_iOS12IValidatableP", "connection_time"]
+- !private ["7HDP_iOS12IValidatableP", "content_type"]
+- !private ["7HDP_iOS12IValidatableP", "content_uri"]
+- !private ["7HDP_iOS12IValidatableP", "dest"]
+- !private ["7HDP_iOS12IValidatableP", "device_id"]
+- ["7HDP_iOS12IValidatableP", "encode"]
+- ["7HDP_iOS12IValidatableP", "init"]
+- !private ["7HDP_iOS12IValidatableP", "mode"]
+- !private ["7HDP_iOS12IValidatableP", "msg_type"]
+- !private ["7HDP_iOS12IValidatableP", "nanos"]
+- !private ["7HDP_iOS12IValidatableP", "packetsReceived"]
+- !private ["7HDP_iOS12IValidatableP", "packetsSent"]
+- !private ["7HDP_iOS12IValidatableP", "payload"]
+- ["7HDP_iOS12IValidatableP", "routerId"]
+- ["7HDP_iOS12IValidatableP", "routerMac"]
+- !private ["7HDP_iOS12IValidatableP", "router_id"]
+- !private ["7HDP_iOS12IValidatableP", "screenActive"]
+- !private ["7HDP_iOS12IValidatableP", "seconds"]
+- !private ["7HDP_iOS12IValidatableP", "signalStrength"]
+- !private ["7HDP_iOS12IValidatableP", "snid"]
+- !private ["7HDP_iOS12IValidatableP", "source"]
+- !private ["7HDP_iOS12IValidatableP", "timestamp"]
+- !private ["7HDP_iOS12IValidatableP", "tv_id"]
+- ["7HDP_iOS12IValidatableP", "validate"]
+- !private ["7HDP_iOS12IValidatableP", "wifi_connected"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- ["10Foundation14LocalizedErrorP", "typeMismatch"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "API_DEFINED_MSG_TYPE"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "Array"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "Bool"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "CodingKeys"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "String"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "TimeStamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "UInt8"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "anid"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "bssid"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "connection_class"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "device_id"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "msg_type"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "timestamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "wifi_connected"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "API_DEFINED_MSG_TYPE"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "Array"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "CodingKeys"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "String"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "TimeStamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "UInt64"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "UInt8"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "anid"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "bssid"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "connection_data"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "connection_time"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "device_id"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "msg_type"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "timestamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Array"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Bool"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "CaseIterable"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Codable"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Decoder"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O", "DecodingError"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "DeviceTrafficEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Encoder"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Equatable"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Event"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "IEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "IValidatable"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "Int64"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "MDConnectionEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "MDStatsEvent"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O", "Optional"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "RouterId"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "String"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVMediaControllerEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVPlayMode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVScreenEvent"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVSource"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TimeStamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "UInt64"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "UInt8"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O", "_findStringSwitchCase"]
+- !private ["Sq", "none"]
+- !private ["Sq", "some"]
+- ["SY", "=="]
+- ["SY", "AllCases"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_AllCases"]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "allCases"]
+- ["SY", "encode"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "=="]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "Decoder"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "DecodingError"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "Encoder"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "Optional"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "String"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "UInt8"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "__derived_enum_equals"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "getAsBytes"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "getAsString"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "routerId"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "routerMac"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8RouterIdO", "validate"]
+- !private ["s28SingleValueDecodingContainerP", "decode"]
+- !private ["s28SingleValueEncodingContainerP", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "CodingKeys"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "String"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "TVPlayMode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "TVSource"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "content_uri"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "mode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "msg_type"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "source"]
+- ["7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "=="]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "AllCases"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "RawValue"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "_Default_AllCases"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "_Default_RawValue"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "_findStringSwitchCase"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "_rawHashValue"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "allCases"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "forward"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "hash"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "hashValue"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "next"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "pause"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "play"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "previous"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "rawValue"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "record"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "rewind"]
+- ["7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO", "stop"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "API_DEFINED_MSG_TYPE"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "Bool"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "CodingKeys"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "TVSource"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "msg_type"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "screenActive"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "source"]
+- ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "Array"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "CodingKeys"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "RouterId"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "String"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "TimeStamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "UInt8"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "anid"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "bssid"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "router_id"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "snid"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "timestamp"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "tv_id"]
+- ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "=="]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "Int"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "UInt64"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "__derived_struct_equals"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "deinit"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "encode"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "nanos"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "seconds"]
+- ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "validate"]
+- !private ["s21_ObjectiveCBridgeableP", "none"]
+- !private ["s21_ObjectiveCBridgeableP", "some"]
+depends-nominal:
+- "s12CaseIterableP"
+- "s9CodingKeyP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "s13DecodingErrorO"
+- "7HDP_iOS22MsgPackSpecificationV2O18DeviceTrafficEventC"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "s5ErrorP"
+- "7HDP_iOS22MsgPackSpecificationV2O5EventC"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "7HDP_iOS6IEventP"
+- "7HDP_iOS12IValidatableP"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "10Foundation14LocalizedErrorP"
+- "7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O12MDStatsEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O"
+- !private "Sq"
+- "SY"
+- "7HDP_iOS22MsgPackSpecificationV2O8RouterIdO"
+- !private "s28SingleValueDecodingContainerP"
+- !private "s28SingleValueEncodingContainerP"
+- "7HDP_iOS22MsgPackSpecificationV2O22TVMediaControllerEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O10TVPlayModeO"
+- "7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC"
+- "7HDP_iOS22MsgPackSpecificationV2O8TVSourceC"
+- "7HDP_iOS22MsgPackSpecificationV2O9TimeStampV"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "47ce7d5d685856816233e9c51c6b2f0d"

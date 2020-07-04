@@ -1,0 +1,230 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MDCommonBuilder"
+provides-nominal:
+- "7HDP_iOS15MDCommonBuilderC"
+provides-member:
+- ["7HDP_iOS15MDCommonBuilderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "-"
+- !private "=="
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "Double"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "MDCommonBuilder"
+- "MsgPackSpecificationV2"
+- !private "NSDate"
+- "Optional"
+- "String"
+- !private "StringLiteralType"
+- "UInt64"
+- "UInt8"
+- !private "checkAllFields"
+- !private "fatalError"
+- !private "floor"
+- !private "round"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "init"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "timeIntervalSince1970"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "none"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "none"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["Se", "init"]
+- ["Se", "none"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "init"]
+- ["SE", "none"]
+- !private ["SQ", "init"]
+- ["SQ", "none"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s23ExpressibleByNilLiteralP", "none"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "init"]
+- ["SH", "none"]
+- !private ["SH", "timeIntervalSince1970"]
+- !private ["7HDP_iOS12IValidatableP", "init"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "Double"]
+- ["7HDP_iOS15MDCommonBuilderC", "Int"]
+- ["7HDP_iOS15MDCommonBuilderC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "NSDate"]
+- ["7HDP_iOS15MDCommonBuilderC", "Optional"]
+- ["7HDP_iOS15MDCommonBuilderC", "String"]
+- ["7HDP_iOS15MDCommonBuilderC", "UInt64"]
+- ["7HDP_iOS15MDCommonBuilderC", "UInt8"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "checkAllFields"]
+- ["7HDP_iOS15MDCommonBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- ["7HDP_iOS15MDCommonBuilderC", "deinit"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "fatalError"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "floor"]
+- ["7HDP_iOS15MDCommonBuilderC", "iAnid"]
+- ["7HDP_iOS15MDCommonBuilderC", "iBssid"]
+- ["7HDP_iOS15MDCommonBuilderC", "iDeviceId"]
+- ["7HDP_iOS15MDCommonBuilderC", "iTimeStamp"]
+- ["7HDP_iOS15MDCommonBuilderC", "init"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "round"]
+- ["7HDP_iOS15MDCommonBuilderC", "withAnid"]
+- ["7HDP_iOS15MDCommonBuilderC", "withBssid6Byte"]
+- ["7HDP_iOS15MDCommonBuilderC", "withDeviceId6Byte"]
+- ["7HDP_iOS15MDCommonBuilderC", "withTimeStamp"]
+- ["7HDP_iOS15MDCommonBuilderC", "withTimeStampNow"]
+- !private ["s10MirrorPathP", "init"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TimeStamp"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "timeIntervalSince1970"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "timeIntervalSince1970"]
+- !private ["So6NSDateC", "init"]
+- !private ["So6NSDateC", "timeIntervalSince1970"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "timeIntervalSince1970"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "timeIntervalSince1970"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "timeIntervalSince1970"]
+- !private ["Sj", "init"]
+- ["Sq", "none"]
+- !private ["Sm", "init"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "init"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O9TimeStampV", "init"]
+- !private ["s6UInt64V", "init"]
+- !private ["SU", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "timeIntervalSince1970"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeIntervalSince1970"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "timeIntervalSince1970"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "none"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "7HDP_iOS12IValidatableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- "7HDP_iOS15MDCommonBuilderC"
+- !private "s10MirrorPathP"
+- "7HDP_iOS22MsgPackSpecificationV2O"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So6NSDateC"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sj"
+- "Sq"
+- !private "Sm"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "7HDP_iOS22MsgPackSpecificationV2O9TimeStampV"
+- !private "s6UInt64V"
+- !private "SU"
+- !private "s15_CVarArgAlignedP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0130e53651d5953a583347409701cdba"

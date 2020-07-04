@@ -1,0 +1,129 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TVScreenEventBuilder"
+provides-nominal:
+- "7HDP_iOS20TVScreenEventBuilderC"
+provides-member:
+- ["7HDP_iOS20TVScreenEventBuilderC", ""]
+provides-dynamic-lookup:
+- "build"
+- "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"
+- "iScreenActive"
+- "withScreenActive"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "MsgPackSpecificationV2"
+- !private "String"
+- !private "StringLiteralType"
+- "TVCommonBuilder"
+- "TVScreenEventBuilder"
+- !private "checkAllFields"
+depends-member:
+- ["7HDP_iOS13CommonBuilderC", "Bool"]
+- ["7HDP_iOS13CommonBuilderC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS13CommonBuilderC", "String"]
+- ["7HDP_iOS13CommonBuilderC", "TVScreenEventBuilder"]
+- ["7HDP_iOS13CommonBuilderC", "build"]
+- !private ["7HDP_iOS13CommonBuilderC", "checkAllFields"]
+- ["7HDP_iOS13CommonBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- !private ["7HDP_iOS13CommonBuilderC", "iAnid"]
+- !private ["7HDP_iOS13CommonBuilderC", "iBssid"]
+- !private ["7HDP_iOS13CommonBuilderC", "iRouterId"]
+- ["7HDP_iOS13CommonBuilderC", "iScreenActive"]
+- !private ["7HDP_iOS13CommonBuilderC", "iSnid"]
+- !private ["7HDP_iOS13CommonBuilderC", "iTimeStamp"]
+- !private ["7HDP_iOS13CommonBuilderC", "iTvId"]
+- ["7HDP_iOS13CommonBuilderC", "init"]
+- ["7HDP_iOS13CommonBuilderC", "withScreenActive"]
+- !private ["Se", "API_DEFINED_MSG_TYPE"]
+- !private ["Se", "init"]
+- !private ["Se", "validate"]
+- !private ["SE", "API_DEFINED_MSG_TYPE"]
+- !private ["SE", "init"]
+- !private ["SE", "validate"]
+- !private ["7HDP_iOS6IEventP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS6IEventP", "init"]
+- !private ["7HDP_iOS6IEventP", "validate"]
+- !private ["7HDP_iOS12IValidatableP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS12IValidatableP", "init"]
+- !private ["7HDP_iOS12IValidatableP", "validate"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "TVScreenEvent"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O", "TVSource"]
+- ["7HDP_iOS15TVCommonBuilderC", "Bool"]
+- ["7HDP_iOS15TVCommonBuilderC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "String"]
+- ["7HDP_iOS15TVCommonBuilderC", "TVScreenEventBuilder"]
+- ["7HDP_iOS15TVCommonBuilderC", ""]
+- ["7HDP_iOS15TVCommonBuilderC", "build"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "checkAllFields"]
+- ["7HDP_iOS15TVCommonBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "iAnid"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "iBssid"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "iRouterId"]
+- ["7HDP_iOS15TVCommonBuilderC", "iScreenActive"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "iSnid"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "iTimeStamp"]
+- !private ["7HDP_iOS15TVCommonBuilderC", "iTvId"]
+- ["7HDP_iOS15TVCommonBuilderC", "init"]
+- ["7HDP_iOS15TVCommonBuilderC", "withScreenActive"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC", "validate"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "Bool"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "MsgPackSpecificationV2"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "String"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "TVScreenEventBuilder"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "build"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "checkAllFields"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "deinit"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "iAnid"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "iBssid"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "iRouterId"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "iScreenActive"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "iSnid"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "iTimeStamp"]
+- !private ["7HDP_iOS20TVScreenEventBuilderC", "iTvId"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "init"]
+- ["7HDP_iOS20TVScreenEventBuilderC", "withScreenActive"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O8TVSourceC", "init"]
+depends-nominal:
+- "7HDP_iOS13CommonBuilderC"
+- !private "Se"
+- !private "SE"
+- !private "7HDP_iOS6IEventP"
+- !private "7HDP_iOS12IValidatableP"
+- "7HDP_iOS22MsgPackSpecificationV2O"
+- "7HDP_iOS15TVCommonBuilderC"
+- !private "7HDP_iOS22MsgPackSpecificationV2O13TVScreenEventC"
+- "7HDP_iOS20TVScreenEventBuilderC"
+- !private "7HDP_iOS22MsgPackSpecificationV2O8TVSourceC"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "934248f7e7b27d13f7fafa42806198db"

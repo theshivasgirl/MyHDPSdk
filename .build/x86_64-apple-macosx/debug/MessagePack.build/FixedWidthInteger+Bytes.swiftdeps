@@ -1,0 +1,229 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["s17FixedWidthIntegerP", ""]
+- ["s17FixedWidthIntegerP", "init"]
+- ["s17FixedWidthIntegerP", "bytes"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "Array"
+- "AssignmentPrecedence"
+- "FixedWidthInteger"
+- "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "MemoryLayout"
+- "UInt8"
+- !private "UnsafeBufferPointer"
+- !private "withUnsafePointer"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "Array"]
+- !private ["s18AdditiveArithmeticP", "MemoryLayout"]
+- ["s18AdditiveArithmeticP", "UInt8"]
+- !private ["s18AdditiveArithmeticP", "UnsafeBufferPointer"]
+- !private ["s18AdditiveArithmeticP", "bigEndian"]
+- !private ["s18AdditiveArithmeticP", "withUnsafePointer"]
+- !private ["Sa", "init"]
+- !private ["Sa", "withUnsafeBufferPointer"]
+- !private ["SK", "baseAddress"]
+- !private ["SK", "init"]
+- !private ["SK", "withUnsafeBufferPointer"]
+- !private ["Sz", "Array"]
+- !private ["Sz", "MemoryLayout"]
+- ["Sz", "UInt8"]
+- !private ["Sz", "UnsafeBufferPointer"]
+- !private ["Sz", "bigEndian"]
+- !private ["Sz", "withUnsafePointer"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "pointee"]
+- !private ["s7CVarArgP", "withMemoryRebound"]
+- !private ["s7CVarArgP", "withUnsafeBufferPointer"]
+- !private ["Sl", "baseAddress"]
+- !private ["Sl", "init"]
+- !private ["Sl", "withUnsafeBufferPointer"]
+- !private ["SL", "Array"]
+- !private ["SL", "MemoryLayout"]
+- ["SL", "UInt8"]
+- !private ["SL", "UnsafeBufferPointer"]
+- !private ["SL", "bigEndian"]
+- !private ["SL", "pointee"]
+- !private ["SL", "withMemoryRebound"]
+- !private ["SL", "withUnsafePointer"]
+- !private ["10Foundation15ContiguousBytesP", "baseAddress"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "withUnsafeBufferPointer"]
+- !private ["s28CustomDebugStringConvertibleP", "baseAddress"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "pointee"]
+- !private ["s28CustomDebugStringConvertibleP", "withMemoryRebound"]
+- !private ["s28CustomDebugStringConvertibleP", "withUnsafeBufferPointer"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "pointee"]
+- !private ["s17CustomReflectableP", "withMemoryRebound"]
+- !private ["s17CustomReflectableP", "withUnsafeBufferPointer"]
+- !private ["s23CustomStringConvertibleP", "Array"]
+- !private ["s23CustomStringConvertibleP", "MemoryLayout"]
+- ["s23CustomStringConvertibleP", "UInt8"]
+- !private ["s23CustomStringConvertibleP", "UnsafeBufferPointer"]
+- !private ["s23CustomStringConvertibleP", "bigEndian"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "withUnsafeBufferPointer"]
+- !private ["s23CustomStringConvertibleP", "withUnsafePointer"]
+- !private ["10Foundation12DataProtocolP", "baseAddress"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "withUnsafeBufferPointer"]
+- !private ["Se", "init"]
+- !private ["Se", "withUnsafeBufferPointer"]
+- !private ["SE", "init"]
+- !private ["SE", "withUnsafeBufferPointer"]
+- !private ["SQ", "Array"]
+- !private ["SQ", "MemoryLayout"]
+- ["SQ", "UInt8"]
+- !private ["SQ", "UnsafeBufferPointer"]
+- !private ["SQ", "bigEndian"]
+- !private ["SQ", "init"]
+- !private ["SQ", "pointee"]
+- !private ["SQ", "withMemoryRebound"]
+- !private ["SQ", "withUnsafeBufferPointer"]
+- !private ["SQ", "withUnsafePointer"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "withUnsafeBufferPointer"]
+- !private ["s27ExpressibleByIntegerLiteralP", "Array"]
+- !private ["s27ExpressibleByIntegerLiteralP", "MemoryLayout"]
+- ["s27ExpressibleByIntegerLiteralP", "UInt8"]
+- !private ["s27ExpressibleByIntegerLiteralP", "UnsafeBufferPointer"]
+- !private ["s27ExpressibleByIntegerLiteralP", "bigEndian"]
+- !private ["s27ExpressibleByIntegerLiteralP", "withUnsafePointer"]
+- !private ["s17FixedWidthIntegerP", "Array"]
+- !private ["s17FixedWidthIntegerP", "MemoryLayout"]
+- ["s17FixedWidthIntegerP", "UInt8"]
+- !private ["s17FixedWidthIntegerP", "UnsafeBufferPointer"]
+- !private ["s17FixedWidthIntegerP", "bigEndian"]
+- ["s17FixedWidthIntegerP", "bytes"]
+- ["s17FixedWidthIntegerP", "init"]
+- !private ["s17FixedWidthIntegerP", "withUnsafePointer"]
+- !private ["SH", "Array"]
+- !private ["SH", "MemoryLayout"]
+- ["SH", "UInt8"]
+- !private ["SH", "UnsafeBufferPointer"]
+- !private ["SH", "bigEndian"]
+- !private ["SH", "init"]
+- !private ["SH", "pointee"]
+- !private ["SH", "withMemoryRebound"]
+- !private ["SH", "withUnsafeBufferPointer"]
+- !private ["SH", "withUnsafePointer"]
+- !private ["s25LosslessStringConvertibleP", "Array"]
+- !private ["s25LosslessStringConvertibleP", "MemoryLayout"]
+- ["s25LosslessStringConvertibleP", "UInt8"]
+- !private ["s25LosslessStringConvertibleP", "UnsafeBufferPointer"]
+- !private ["s25LosslessStringConvertibleP", "bigEndian"]
+- !private ["s25LosslessStringConvertibleP", "withUnsafePointer"]
+- !private ["s12MemoryLayoutO", "size"]
+- !private ["SM", "init"]
+- !private ["SM", "withUnsafeBufferPointer"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "withUnsafeBufferPointer"]
+- !private ["Sj", "Array"]
+- !private ["Sj", "MemoryLayout"]
+- ["Sj", "UInt8"]
+- !private ["Sj", "UnsafeBufferPointer"]
+- !private ["Sj", "bigEndian"]
+- !private ["Sj", "withUnsafePointer"]
+- !private ["Sk", "baseAddress"]
+- !private ["Sk", "init"]
+- !private ["Sk", "withUnsafeBufferPointer"]
+- !private ["Sm", "init"]
+- !private ["Sm", "withUnsafeBufferPointer"]
+- !private ["ST", "baseAddress"]
+- !private ["ST", "init"]
+- !private ["ST", "withUnsafeBufferPointer"]
+- !private ["Sx", "Array"]
+- !private ["Sx", "MemoryLayout"]
+- ["Sx", "UInt8"]
+- !private ["Sx", "UnsafeBufferPointer"]
+- !private ["Sx", "bigEndian"]
+- !private ["Sx", "pointee"]
+- !private ["Sx", "withMemoryRebound"]
+- !private ["Sx", "withUnsafePointer"]
+- !private ["SR", "baseAddress"]
+- !private ["SR", "init"]
+- !private ["SP", "pointee"]
+- !private ["SP", "withMemoryRebound"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "withUnsafeBufferPointer"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "pointee"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "withMemoryRebound"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "withUnsafeBufferPointer"]
+- !private ["s19_HasContiguousBytesP", "baseAddress"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "withUnsafeBufferPointer"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "withUnsafeBufferPointer"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "withUnsafeBufferPointer"]
+- !private ["s8_PointerP", "pointee"]
+- !private ["s8_PointerP", "withMemoryRebound"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- "Sz"
+- !private "s7CVarArgP"
+- !private "Sl"
+- "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s17FixedWidthIntegerP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- !private "s12MemoryLayoutO"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "Sj"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- "Sx"
+- !private "SR"
+- !private "SP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2b4cb3ae72523be5b52c4edf3d1511ef"

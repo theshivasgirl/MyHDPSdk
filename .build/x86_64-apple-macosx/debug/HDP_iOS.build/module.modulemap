@@ -1,0 +1,4 @@
+module HDP_iOS {
+    header "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/HDP-iOS-Swift.h"
+    requires objc
+}

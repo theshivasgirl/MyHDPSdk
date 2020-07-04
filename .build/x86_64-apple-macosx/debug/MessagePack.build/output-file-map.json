@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/master.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/AnyCodingKey.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/AnyCodingKey.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/AnyCodingKey.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/AnyCodingKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/AnyCodingKey.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Box.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Box.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Box.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Box~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Box.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Decoder/KeyedDecodingContainer.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/KeyedDecodingContainer.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/KeyedDecodingContainer.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/KeyedDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/KeyedDecodingContainer.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Decoder/MessagePackDecoder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/MessagePackDecoder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/MessagePackDecoder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/MessagePackDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/MessagePackDecoder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Decoder/SingleValueDecodingContainer.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/SingleValueDecodingContainer.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/SingleValueDecodingContainer.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/SingleValueDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/SingleValueDecodingContainer.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Decoder/UnkeyedDecodingContainer.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/UnkeyedDecodingContainer.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/UnkeyedDecodingContainer.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/UnkeyedDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Decoder/UnkeyedDecodingContainer.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Encoder/KeyedEncodingContainer.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/KeyedEncodingContainer.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/KeyedEncodingContainer.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/KeyedEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/KeyedEncodingContainer.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Encoder/MessagePackEncoder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/MessagePackEncoder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/MessagePackEncoder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/MessagePackEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/MessagePackEncoder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Encoder/SingleValueEncodingContainer.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/SingleValueEncodingContainer.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/SingleValueEncodingContainer.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/SingleValueEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/SingleValueEncodingContainer.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/Encoder/UnkeyedEncodingContainer.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/UnkeyedEncodingContainer.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/UnkeyedEncodingContainer.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/UnkeyedEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/Encoder/UnkeyedEncodingContainer.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/checkouts/MessagePack/Sources/MessagePack/FixedWidthInteger+Bytes.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/FixedWidthInteger+Bytes.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/FixedWidthInteger+Bytes.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/FixedWidthInteger+Bytes~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/FixedWidthInteger+Bytes.swiftdeps"
+  }
+}

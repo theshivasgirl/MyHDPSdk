@@ -1,0 +1,1 @@
+{"object": {"dependencies": [{"basedOn": null, "packageRef": {"identity": "messagepack", "kind": "remote", "name": "MessagePack", "path": "https://github.com/HappiHacking/MessagePack"}, "state": {"checkoutState": {"branch": null, "revision": "02cc9207c71c621db374fc51c9bf8ea4fe1c145f", "version": "2.2.1"}, "name": "checkout"}, "subpath": "MessagePack"}]}, "version": 3}

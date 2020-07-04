@@ -1,0 +1,351 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MessagePackDecoder"
+- "_MessagePackDecoder"
+- "MessagePackDecodingContainer"
+provides-nominal:
+- "11MessagePack0aB7DecoderC"
+- "11MessagePack01_aB7DecoderC"
+- "11MessagePack0aB17DecodingContainerP"
+provides-member:
+- ["11MessagePack0aB7DecoderC", ""]
+- ["11MessagePack01_aB7DecoderC", ""]
+- ["11MessagePack0aB17DecodingContainerP", ""]
+- ["11MessagePack0aB17DecodingContainerP", "readByte"]
+- ["11MessagePack0aB17DecodingContainerP", "read"]
+- ["11MessagePack0aB17DecodingContainerP", "read"]
+provides-dynamic-lookup:
+- "assertCanCreateContainer"
+- "codingPath"
+- "container"
+- "data"
+- "decode"
+- "singleValueContainer"
+- "unkeyedContainer"
+- "userInfo"
+depends-top-level:
+- !private "..<"
+- !private "<="
+- !private "=="
+- "AnyObject"
+- "AssignmentPrecedence"
+- !private "Box"
+- "CastingPrecedence"
+- "CodingKey"
+- "CodingUserInfoKey"
+- "Data"
+- !private "Date"
+- "Decodable"
+- "Decoder"
+- !private "DecodingError"
+- "FixedWidthInteger"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "KeyedDecodingContainer"
+- !private "MemoryLayout"
+- "MessagePackDecoder"
+- "MessagePackDecodingContainer"
+- "SingleValueDecodingContainer"
+- !private "StringLiteralType"
+- "TopLevelDecoder"
+- "UInt8"
+- "UnkeyedDecodingContainer"
+- "_MessagePackDecoder"
+- !private "precondition"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "advanced"]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "init"]
+- ["SK", "Index"]
+- !private ["SK", "endIndex"]
+- !private ["SK", "first"]
+- !private ["SK", "init"]
+- !private ["SK", "subdata"]
+- !private ["Sz", "advanced"]
+- !private ["Sz", "init"]
+- !private ["11MessagePack3BoxV", "deinit"]
+- !private ["11MessagePack3BoxV", "init"]
+- !private ["11MessagePack3BoxV", "value"]
+- !private ["s7CVarArgP", "advanced"]
+- !private ["s7CVarArgP", "init"]
+- ["Sl", "Index"]
+- !private ["Sl", "endIndex"]
+- !private ["Sl", "first"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subdata"]
+- !private ["SL", "advanced"]
+- !private ["SL", "init"]
+- !private ["s13DecodingErrorO7ContextV", "init"]
+- ["10Foundation15ContiguousBytesP", "Index"]
+- !private ["10Foundation15ContiguousBytesP", "endIndex"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "subdata"]
+- ["s28CustomDebugStringConvertibleP", "Index"]
+- !private ["s28CustomDebugStringConvertibleP", "endIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subdata"]
+- ["s17CustomReflectableP", "Index"]
+- !private ["s17CustomReflectableP", "advanced"]
+- !private ["s17CustomReflectableP", "endIndex"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subdata"]
+- ["s23CustomStringConvertibleP", "Index"]
+- !private ["s23CustomStringConvertibleP", "advanced"]
+- !private ["s23CustomStringConvertibleP", "endIndex"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subdata"]
+- ["10Foundation4DataV", "Index"]
+- !private ["10Foundation4DataV", "endIndex"]
+- !private ["10Foundation4DataV", "first"]
+- !private ["10Foundation4DataV", "subdata"]
+- ["10Foundation12DataProtocolP", "Index"]
+- !private ["10Foundation12DataProtocolP", "endIndex"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "subdata"]
+- ["Se", "Index"]
+- !private ["Se", "advanced"]
+- !private ["Se", "endIndex"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Se", "subdata"]
+- !private ["Se", "value"]
+- !private ["s7DecoderP", "KeyedContainer"]
+- !private ["s7DecoderP", "KeyedDecodingContainer"]
+- !private ["s7DecoderP", "SingleValueContainer"]
+- !private ["s7DecoderP", "UnkeyedContainer"]
+- ["s7DecoderP", ""]
+- !private ["s7DecoderP", "assertCanCreateContainer"]
+- ["s7DecoderP", "codingPath"]
+- ["s7DecoderP", "container"]
+- !private ["s7DecoderP", "data"]
+- !private ["s7DecoderP", "init"]
+- !private ["s7DecoderP", "precondition"]
+- ["s7DecoderP", "singleValueContainer"]
+- ["s7DecoderP", "unkeyedContainer"]
+- ["s7DecoderP", "userInfo"]
+- !private ["s13DecodingErrorO", "Context"]
+- !private ["s13DecodingErrorO", "dataCorrupted"]
+- ["SE", "Index"]
+- !private ["SE", "advanced"]
+- !private ["SE", "endIndex"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SE", "subdata"]
+- !private ["SE", "value"]
+- ["SQ", "Index"]
+- !private ["SQ", "advanced"]
+- !private ["SQ", "endIndex"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "subdata"]
+- !private ["s5ErrorP", "Context"]
+- !private ["s5ErrorP", "dataCorrupted"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "advanced"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "advanced"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["SH", "Index"]
+- !private ["SH", "advanced"]
+- !private ["SH", "endIndex"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "subdata"]
+- !private ["Si", "advanced"]
+- !private ["11MessagePack01_aB7DecoderC14KeyedContainerC", "deinit"]
+- !private ["11MessagePack01_aB7DecoderC14KeyedContainerC", "init"]
+- !private ["s22KeyedDecodingContainerV", "init"]
+- !private ["s30KeyedDecodingContainerProtocolP", "init"]
+- !private ["10Foundation14LocalizedErrorP", "Context"]
+- !private ["10Foundation14LocalizedErrorP", "dataCorrupted"]
+- !private ["s25LosslessStringConvertibleP", "advanced"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s12MemoryLayoutO", "stride"]
+- !private ["11MessagePack0aB7DecoderC", "Box"]
+- ["11MessagePack0aB7DecoderC", "CodingUserInfoKey"]
+- ["11MessagePack0aB7DecoderC", "Data"]
+- !private ["11MessagePack0aB7DecoderC", "Date"]
+- ["11MessagePack0aB7DecoderC", "Decodable"]
+- ["11MessagePack0aB7DecoderC", "Input"]
+- !private ["11MessagePack0aB7DecoderC", "_MessagePackDecoder"]
+- ["11MessagePack0aB7DecoderC", "decode"]
+- ["11MessagePack0aB7DecoderC", "deinit"]
+- ["11MessagePack0aB7DecoderC", "init"]
+- ["11MessagePack0aB7DecoderC", "userInfo"]
+- ["11MessagePack0aB17DecodingContainerP", "CodingKey"]
+- ["11MessagePack0aB17DecodingContainerP", "CodingUserInfoKey"]
+- ["11MessagePack0aB17DecodingContainerP", "Data"]
+- !private ["11MessagePack0aB17DecodingContainerP", "DecodingError"]
+- ["11MessagePack0aB17DecodingContainerP", "FixedWidthInteger"]
+- ["11MessagePack0aB17DecodingContainerP", "Int"]
+- !private ["11MessagePack0aB17DecodingContainerP", "MemoryLayout"]
+- ["11MessagePack0aB17DecodingContainerP", "UInt8"]
+- ["11MessagePack0aB17DecodingContainerP", "codingPath"]
+- ["11MessagePack0aB17DecodingContainerP", "data"]
+- ["11MessagePack0aB17DecodingContainerP", "index"]
+- !private ["11MessagePack0aB17DecodingContainerP", "init"]
+- ["11MessagePack0aB17DecodingContainerP", "read"]
+- ["11MessagePack0aB17DecodingContainerP", "readByte"]
+- ["11MessagePack0aB17DecodingContainerP", "userInfo"]
+- !private ["s10MirrorPathP", "advanced"]
+- ["SM", "Index"]
+- !private ["SM", "endIndex"]
+- !private ["SM", "first"]
+- !private ["SM", "init"]
+- !private ["SM", "subdata"]
+- ["10Foundation19MutableDataProtocolP", "Index"]
+- !private ["10Foundation19MutableDataProtocolP", "endIndex"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "subdata"]
+- !private ["Sj", "advanced"]
+- !private ["Sj", "init"]
+- ["Sk", "Index"]
+- !private ["Sk", "endIndex"]
+- !private ["Sk", "first"]
+- !private ["Sk", "init"]
+- !private ["Sk", "subdata"]
+- ["Sm", "Index"]
+- !private ["Sm", "endIndex"]
+- !private ["Sm", "first"]
+- !private ["Sm", "init"]
+- !private ["Sm", "subdata"]
+- ["10Foundation20ReferenceConvertibleP", "Index"]
+- !private ["10Foundation20ReferenceConvertibleP", "endIndex"]
+- !private ["10Foundation20ReferenceConvertibleP", "first"]
+- !private ["10Foundation20ReferenceConvertibleP", "subdata"]
+- !private ["s10SIMDScalarP", "advanced"]
+- ["ST", "Index"]
+- !private ["ST", "endIndex"]
+- !private ["ST", "first"]
+- !private ["ST", "init"]
+- !private ["ST", "subdata"]
+- !private ["SZ", "advanced"]
+- !private ["s13SignedNumericP", "advanced"]
+- !private ["11MessagePack01_aB7DecoderC20SingleValueContainerC", "deinit"]
+- !private ["11MessagePack01_aB7DecoderC20SingleValueContainerC", "init"]
+- !private ["s28SingleValueDecodingContainerP", "init"]
+- !private ["Sx", "advanced"]
+- !private ["Sx", "init"]
+- !private ["7Combine15TopLevelDecoderP", "Box"]
+- ["7Combine15TopLevelDecoderP", "Input"]
+- ["7Combine15TopLevelDecoderP", ""]
+- !private ["7Combine15TopLevelDecoderP", "_MessagePackDecoder"]
+- ["7Combine15TopLevelDecoderP", "decode"]
+- !private ["7Combine15TopLevelDecoderP", "userInfo"]
+- !private ["11MessagePack01_aB7DecoderC16UnkeyedContainerC", "deinit"]
+- !private ["11MessagePack01_aB7DecoderC16UnkeyedContainerC", "init"]
+- !private ["s24UnkeyedDecodingContainerP", "init"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "advanced"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "advanced"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "advanced"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["11MessagePack01_aB7DecoderC", "CodingKey"]
+- ["11MessagePack01_aB7DecoderC", "CodingUserInfoKey"]
+- ["11MessagePack01_aB7DecoderC", "Data"]
+- !private ["11MessagePack01_aB7DecoderC", "KeyedContainer"]
+- ["11MessagePack01_aB7DecoderC", "KeyedDecodingContainer"]
+- ["11MessagePack01_aB7DecoderC", "MessagePackDecodingContainer"]
+- !private ["11MessagePack01_aB7DecoderC", "SingleValueContainer"]
+- ["11MessagePack01_aB7DecoderC", "SingleValueDecodingContainer"]
+- !private ["11MessagePack01_aB7DecoderC", "UnkeyedContainer"]
+- ["11MessagePack01_aB7DecoderC", "UnkeyedDecodingContainer"]
+- !private ["11MessagePack01_aB7DecoderC", "assertCanCreateContainer"]
+- ["11MessagePack01_aB7DecoderC", "codingPath"]
+- ["11MessagePack01_aB7DecoderC", "container"]
+- !private ["11MessagePack01_aB7DecoderC", "data"]
+- ["11MessagePack01_aB7DecoderC", "deinit"]
+- ["11MessagePack01_aB7DecoderC", "init"]
+- !private ["11MessagePack01_aB7DecoderC", "precondition"]
+- ["11MessagePack01_aB7DecoderC", "singleValueContainer"]
+- ["11MessagePack01_aB7DecoderC", "unkeyedContainer"]
+- ["11MessagePack01_aB7DecoderC", "userInfo"]
+- ["s21_ObjectiveCBridgeableP", "Index"]
+- !private ["s21_ObjectiveCBridgeableP", "advanced"]
+- !private ["s21_ObjectiveCBridgeableP", "endIndex"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subdata"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- "SK"
+- !private "Sz"
+- !private "11MessagePack3BoxV"
+- !private "s7CVarArgP"
+- "Sl"
+- !private "SL"
+- !private "s13DecodingErrorO7ContextV"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DataV"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "s7DecoderP"
+- !private "s13DecodingErrorO"
+- "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- !private "11MessagePack01_aB7DecoderC14KeyedContainerC"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "10Foundation14LocalizedErrorP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s12MemoryLayoutO"
+- "11MessagePack0aB7DecoderC"
+- "11MessagePack0aB17DecodingContainerP"
+- !private "s10MirrorPathP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "Sj"
+- "Sk"
+- "Sm"
+- "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "11MessagePack01_aB7DecoderC20SingleValueContainerC"
+- !private "s28SingleValueDecodingContainerP"
+- !private "Sx"
+- "7Combine15TopLevelDecoderP"
+- !private "11MessagePack01_aB7DecoderC16UnkeyedContainerC"
+- !private "s24UnkeyedDecodingContainerP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "11MessagePack01_aB7DecoderC"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9ab02c0975536d4d2564b2cfeb9b4f39"

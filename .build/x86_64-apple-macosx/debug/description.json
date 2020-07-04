@@ -1,0 +1,26 @@
+{
+  "allExecutables" : [
+
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "HDP-iOS",
+      "productName" : "HDP-iOSPackageTests",
+      "testBinary" : "\/Users\/macbook\/Desktop\/DummyHDP\/MyHDPSdk\/.build\/x86_64-apple-macosx\/debug\/HDP-iOSPackageTests.xctest\/Contents\/MacOS\/HDP-iOSPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+
+  ],
+  "swiftTargetMap" : {
+    "C.HDP-iOS-debug.module" : "HDP-iOS",
+    "C.HDP-iOSTests-debug.module" : "HDP-iOSTests",
+    "C.MessagePack-debug.module" : "MessagePack"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

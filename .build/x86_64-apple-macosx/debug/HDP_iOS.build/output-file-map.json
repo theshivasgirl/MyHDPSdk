@@ -1,0 +1,149 @@
+{
+  "": {
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/master.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/IEvent.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IEvent.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IEvent.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IEvent.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/IOException.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IOException.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IOException.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IOException~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IOException.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/IPayload.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IPayload.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IPayload.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IPayload~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IPayload.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/IValidatable.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IValidatable.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IValidatable.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IValidatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IValidatable.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/IllegalArgumentException.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IllegalArgumentException.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IllegalArgumentException.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IllegalArgumentException~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/IllegalArgumentException.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/StringConverters.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/StringConverters.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/StringConverters.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/StringConverters~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/common/StringConverters.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/io/MsgPackSerializerDeserializer.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/io/MsgPackSerializerDeserializer.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/io/MsgPackSerializerDeserializer.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/io/MsgPackSerializerDeserializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/io/MsgPackSerializerDeserializer.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/DataValidationV2.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/DataValidationV2.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/DataValidationV2.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/DataValidationV2~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/DataValidationV2.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/EnvelopeEventBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/EnvelopeEventBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/EnvelopeEventBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/EnvelopeEventBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/EnvelopeEventBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/MsgPackSpecificationV2.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/MsgPackSpecificationV2.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/MsgPackSpecificationV2.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/MsgPackSpecificationV2~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/MsgPackSpecificationV2.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/CommonBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/CommonBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/CommonBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/CommonBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/CommonBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/DeviceTrafficEventBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/DeviceTrafficEventBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/DeviceTrafficEventBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/DeviceTrafficEventBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/DeviceTrafficEventBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/FieldCheckerUtils.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/FieldCheckerUtils.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/FieldCheckerUtils.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/FieldCheckerUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/FieldCheckerUtils.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/MDCommonBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDCommonBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDCommonBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDCommonBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDCommonBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/MDConnectionEventBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDConnectionEventBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDConnectionEventBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDConnectionEventBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDConnectionEventBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/MDStatsEventBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDStatsEventBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDStatsEventBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDStatsEventBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/MDStatsEventBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/TVCommonBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVCommonBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVCommonBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVCommonBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVCommonBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/TVMediacontrollerEventBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVMediacontrollerEventBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVMediacontrollerEventBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVMediacontrollerEventBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVMediacontrollerEventBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/msgpackbuilder/TVScreenEventBuilder.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVScreenEventBuilder.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVScreenEventBuilder.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVScreenEventBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/msgpackbuilder/TVScreenEventBuilder.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/payload/AbstractPayloadV2.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/AbstractPayloadV2.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/AbstractPayloadV2.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/AbstractPayloadV2~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/AbstractPayloadV2.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/payload/MqttToEndpointMap.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/MqttToEndpointMap.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/MqttToEndpointMap.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/MqttToEndpointMap~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/MqttToEndpointMap.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/v2/payload/Payloads.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/Payloads.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/Payloads.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/Payloads~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/v2/payload/Payloads.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/validation/AbstractDataValidation.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/AbstractDataValidation.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/AbstractDataValidation.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/AbstractDataValidation~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/AbstractDataValidation.swiftdeps"
+  },
+  "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/validation/EventValidationException.swift": {
+    "dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/EventValidationException.d",
+    "object": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/EventValidationException.swift.o",
+    "swiftmodule": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/EventValidationException~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/validation/EventValidationException.swiftdeps"
+  }
+}

@@ -1,0 +1,132 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MDConnectionEventBuilder"
+provides-nominal:
+- "7HDP_iOS24MDConnectionEventBuilderC"
+provides-member:
+- ["7HDP_iOS24MDConnectionEventBuilderC", ""]
+provides-dynamic-lookup:
+- "build"
+- "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"
+- "iConnectionClass"
+- "iWifiConnected"
+- "withConnectionClass"
+- "withWifiConnected"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "Int"
+- "MDCommonBuilder"
+- "MDConnectionEventBuilder"
+- "MsgPackSpecificationV2"
+- "Optional"
+- !private "String"
+- !private "StringLiteralType"
+- !private "checkAllFields"
+depends-member:
+- ["s28CustomDebugStringConvertibleP", "none"]
+- ["s17CustomReflectableP", "none"]
+- !private ["Se", "API_DEFINED_MSG_TYPE"]
+- !private ["Se", "init"]
+- ["Se", "none"]
+- !private ["Se", "validate"]
+- !private ["SE", "API_DEFINED_MSG_TYPE"]
+- !private ["SE", "init"]
+- ["SE", "none"]
+- !private ["SE", "validate"]
+- ["SQ", "none"]
+- ["s23ExpressibleByNilLiteralP", "none"]
+- ["SH", "none"]
+- !private ["7HDP_iOS6IEventP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS6IEventP", "init"]
+- !private ["7HDP_iOS6IEventP", "validate"]
+- !private ["7HDP_iOS12IValidatableP", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS12IValidatableP", "init"]
+- !private ["7HDP_iOS12IValidatableP", "validate"]
+- ["7HDP_iOS15MDCommonBuilderC", "Bool"]
+- ["7HDP_iOS15MDCommonBuilderC", "Int"]
+- ["7HDP_iOS15MDCommonBuilderC", "MDConnectionEventBuilder"]
+- ["7HDP_iOS15MDCommonBuilderC", "MsgPackSpecificationV2"]
+- ["7HDP_iOS15MDCommonBuilderC", "Optional"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "String"]
+- ["7HDP_iOS15MDCommonBuilderC", ""]
+- ["7HDP_iOS15MDCommonBuilderC", "build"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "checkAllFields"]
+- ["7HDP_iOS15MDCommonBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "iAnid"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "iBssid"]
+- ["7HDP_iOS15MDCommonBuilderC", "iConnectionClass"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "iDeviceId"]
+- !private ["7HDP_iOS15MDCommonBuilderC", "iTimeStamp"]
+- ["7HDP_iOS15MDCommonBuilderC", "iWifiConnected"]
+- ["7HDP_iOS15MDCommonBuilderC", "init"]
+- ["7HDP_iOS15MDCommonBuilderC", "withConnectionClass"]
+- ["7HDP_iOS15MDCommonBuilderC", "withWifiConnected"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "API_DEFINED_MSG_TYPE"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "deinit"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "init"]
+- !private ["7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC", "validate"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "Bool"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "Int"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "MDConnectionEventBuilder"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "MsgPackSpecificationV2"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "Optional"]
+- !private ["7HDP_iOS24MDConnectionEventBuilderC", "String"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "build"]
+- !private ["7HDP_iOS24MDConnectionEventBuilderC", "checkAllFields"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "checkAllFieldsSetSinceAPIVersion2DoesNotHandleOptional"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "deinit"]
+- !private ["7HDP_iOS24MDConnectionEventBuilderC", "iAnid"]
+- !private ["7HDP_iOS24MDConnectionEventBuilderC", "iBssid"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "iConnectionClass"]
+- !private ["7HDP_iOS24MDConnectionEventBuilderC", "iDeviceId"]
+- !private ["7HDP_iOS24MDConnectionEventBuilderC", "iTimeStamp"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "iWifiConnected"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "init"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "withConnectionClass"]
+- ["7HDP_iOS24MDConnectionEventBuilderC", "withWifiConnected"]
+- ["7HDP_iOS22MsgPackSpecificationV2O", "MDConnectionEvent"]
+- ["Sq", "none"]
+- ["s21_ObjectiveCBridgeableP", "none"]
+depends-nominal:
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "Se"
+- "SE"
+- "SQ"
+- "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "7HDP_iOS6IEventP"
+- !private "7HDP_iOS12IValidatableP"
+- "7HDP_iOS15MDCommonBuilderC"
+- !private "7HDP_iOS22MsgPackSpecificationV2O17MDConnectionEventC"
+- "7HDP_iOS24MDConnectionEventBuilderC"
+- "7HDP_iOS22MsgPackSpecificationV2O"
+- "Sq"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "377d703cd0c317e85f7db739f42f1c35"

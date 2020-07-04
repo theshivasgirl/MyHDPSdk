@@ -1,0 +1,163 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MqttToEndpointMap"
+provides-nominal:
+- "7HDP_iOS17MqttToEndpointMapC"
+provides-member:
+- ["7HDP_iOS17MqttToEndpointMapC", ""]
+provides-dynamic-lookup:
+- "cMqttToEndpointMap"
+- "getAllMqttTopics"
+- "initializeLookup"
+- "mqttToEndpoint"
+depends-top-level:
+- "AssignmentPrecedence"
+- "IPayload"
+- "MqttToEndpointMap"
+- "PayloadDeviceTraffic"
+- "PayloadMDConnection"
+- "PayloadMDStats"
+- "PayloadTVMediaController"
+- "PayloadTVScreen"
+- "String"
+depends-member:
+- ["7HDP_iOS17AbstractPayloadV2C", "getRegisterInstance"]
+- !private ["Sa", "init"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "keys"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "init"]
+- !private ["Sl", "keys"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "keys"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "keys"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "keys"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "keys"]
+- !private ["Se", "subscript"]
+- !private ["SD", "keys"]
+- !private ["SD", "subscript"]
+- !private ["SE", "init"]
+- !private ["SE", "keys"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "init"]
+- !private ["SQ", "keys"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "keys"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["SH", "init"]
+- !private ["SH", "keys"]
+- !private ["SH", "subscript"]
+- !private ["7HDP_iOS8IPayloadP", "getEndpoint"]
+- !private ["7HDP_iOS8IPayloadP", "getMqttTopic"]
+- ["7HDP_iOS8IPayloadP", "getRegisterInstance"]
+- ["7HDP_iOS17MqttToEndpointMapC", "IPayload"]
+- ["7HDP_iOS17MqttToEndpointMapC", "PayloadDeviceTraffic"]
+- ["7HDP_iOS17MqttToEndpointMapC", "PayloadMDConnection"]
+- ["7HDP_iOS17MqttToEndpointMapC", "PayloadMDStats"]
+- ["7HDP_iOS17MqttToEndpointMapC", "PayloadTVMediaController"]
+- ["7HDP_iOS17MqttToEndpointMapC", "PayloadTVScreen"]
+- ["7HDP_iOS17MqttToEndpointMapC", "String"]
+- !private ["7HDP_iOS17MqttToEndpointMapC", "cMqttToEndpointMap"]
+- ["7HDP_iOS17MqttToEndpointMapC", "deinit"]
+- ["7HDP_iOS17MqttToEndpointMapC", "getAllMqttTopics"]
+- !private ["7HDP_iOS17MqttToEndpointMapC", "init"]
+- ["7HDP_iOS17MqttToEndpointMapC", "initializeLookup"]
+- ["7HDP_iOS17MqttToEndpointMapC", "mqttToEndpoint"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- ["7HDP_iOS20PayloadDeviceTrafficC", "deinit"]
+- ["7HDP_iOS20PayloadDeviceTrafficC", "getRegisterInstance"]
+- ["7HDP_iOS19PayloadMDConnectionC", "deinit"]
+- ["7HDP_iOS19PayloadMDConnectionC", "getRegisterInstance"]
+- ["7HDP_iOS14PayloadMDStatsC", "deinit"]
+- ["7HDP_iOS14PayloadMDStatsC", "getRegisterInstance"]
+- ["7HDP_iOS24PayloadTVMediaControllerC", "deinit"]
+- ["7HDP_iOS24PayloadTVMediaControllerC", "getRegisterInstance"]
+- ["7HDP_iOS15PayloadTVScreenC", "deinit"]
+- ["7HDP_iOS15PayloadTVScreenC", "getRegisterInstance"]
+- !private ["Sk", "init"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "keys"]
+- !private ["ST", "subscript"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "keys"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "keys"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "7HDP_iOS17AbstractPayloadV2C"
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "SH"
+- "7HDP_iOS8IPayloadP"
+- "7HDP_iOS17MqttToEndpointMapC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "7HDP_iOS20PayloadDeviceTrafficC"
+- "7HDP_iOS19PayloadMDConnectionC"
+- "7HDP_iOS14PayloadMDStatsC"
+- "7HDP_iOS24PayloadTVMediaControllerC"
+- "7HDP_iOS15PayloadTVScreenC"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6eab686f0d869eed165d24b4b377c526"

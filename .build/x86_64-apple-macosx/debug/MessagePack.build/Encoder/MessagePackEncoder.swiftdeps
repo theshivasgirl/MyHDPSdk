@@ -1,0 +1,191 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MessagePackEncoder"
+- "_MessagePackEncodingContainer"
+- "_MessagePackEncoder"
+provides-nominal:
+- "11MessagePack0aB7EncoderC"
+- "11MessagePack01_aB17EncodingContainerP"
+- "11MessagePack01_aB7EncoderC"
+provides-member:
+- ["11MessagePack0aB7EncoderC", ""]
+- ["11MessagePack01_aB17EncodingContainerP", ""]
+- ["11MessagePack01_aB7EncoderC", ""]
+provides-dynamic-lookup:
+- "assertCanCreateContainer"
+- "codingPath"
+- "container"
+- "data"
+- "encode"
+- "singleValueContainer"
+- "unkeyedContainer"
+- "userInfo"
+depends-top-level:
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- !private "Box"
+- "CodingKey"
+- "CodingUserInfoKey"
+- "Data"
+- !private "Date"
+- "Encodable"
+- "Encoder"
+- "KeyedEncodingContainer"
+- "MessagePackEncoder"
+- "SingleValueEncodingContainer"
+- "TopLevelEncoder"
+- "UnkeyedEncodingContainer"
+- "_MessagePackEncoder"
+- "_MessagePackEncodingContainer"
+- !private "precondition"
+depends-member:
+- !private ["SK", "init"]
+- !private ["11MessagePack3BoxV", "deinit"]
+- !private ["11MessagePack3BoxV", "encode"]
+- !private ["11MessagePack3BoxV", "init"]
+- !private ["Sl", "init"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "encode"]
+- !private ["Se", "init"]
+- !private ["SE", "encode"]
+- !private ["SE", "init"]
+- !private ["s7EncoderP", "Data"]
+- !private ["s7EncoderP", "KeyedContainer"]
+- !private ["s7EncoderP", "KeyedEncodingContainer"]
+- !private ["s7EncoderP", "SingleValueContainer"]
+- !private ["s7EncoderP", "UnkeyedContainer"]
+- ["s7EncoderP", ""]
+- !private ["s7EncoderP", "assertCanCreateContainer"]
+- ["s7EncoderP", "codingPath"]
+- ["s7EncoderP", "container"]
+- !private ["s7EncoderP", "data"]
+- !private ["s7EncoderP", "init"]
+- !private ["s7EncoderP", "precondition"]
+- ["s7EncoderP", "singleValueContainer"]
+- ["s7EncoderP", "unkeyedContainer"]
+- ["s7EncoderP", "userInfo"]
+- !private ["SQ", "init"]
+- !private ["SH", "init"]
+- !private ["11MessagePack01_aB7EncoderC14KeyedContainerC", "deinit"]
+- !private ["11MessagePack01_aB7EncoderC14KeyedContainerC", "init"]
+- !private ["s22KeyedEncodingContainerV", "init"]
+- !private ["s30KeyedEncodingContainerProtocolP", "init"]
+- !private ["11MessagePack0aB7EncoderC", "Box"]
+- ["11MessagePack0aB7EncoderC", "CodingUserInfoKey"]
+- ["11MessagePack0aB7EncoderC", "Data"]
+- !private ["11MessagePack0aB7EncoderC", "Date"]
+- ["11MessagePack0aB7EncoderC", "Encodable"]
+- ["11MessagePack0aB7EncoderC", "Input"]
+- ["11MessagePack0aB7EncoderC", "Output"]
+- ["11MessagePack0aB7EncoderC", "_Default_Output"]
+- !private ["11MessagePack0aB7EncoderC", "_MessagePackEncoder"]
+- ["11MessagePack0aB7EncoderC", "deinit"]
+- ["11MessagePack0aB7EncoderC", "encode"]
+- ["11MessagePack0aB7EncoderC", "init"]
+- ["11MessagePack0aB7EncoderC", "userInfo"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["Sk", "init"]
+- !private ["Sm", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "init"]
+- !private ["11MessagePack01_aB7EncoderC20SingleValueContainerC", "deinit"]
+- !private ["11MessagePack01_aB7EncoderC20SingleValueContainerC", "init"]
+- !private ["s28SingleValueEncodingContainerP", "init"]
+- !private ["7Combine15TopLevelEncoderP", "Box"]
+- ["7Combine15TopLevelEncoderP", "Output"]
+- ["7Combine15TopLevelEncoderP", ""]
+- ["7Combine15TopLevelEncoderP", "_Default_Output"]
+- !private ["7Combine15TopLevelEncoderP", "_MessagePackEncoder"]
+- ["7Combine15TopLevelEncoderP", "encode"]
+- !private ["7Combine15TopLevelEncoderP", "userInfo"]
+- !private ["11MessagePack01_aB7EncoderC16UnkeyedContainerC", "deinit"]
+- !private ["11MessagePack01_aB7EncoderC16UnkeyedContainerC", "init"]
+- !private ["s24UnkeyedEncodingContainerP", "init"]
+- ["11MessagePack01_aB7EncoderC", "CodingKey"]
+- ["11MessagePack01_aB7EncoderC", "CodingUserInfoKey"]
+- ["11MessagePack01_aB7EncoderC", "Data"]
+- !private ["11MessagePack01_aB7EncoderC", "KeyedContainer"]
+- ["11MessagePack01_aB7EncoderC", "KeyedEncodingContainer"]
+- !private ["11MessagePack01_aB7EncoderC", "SingleValueContainer"]
+- ["11MessagePack01_aB7EncoderC", "SingleValueEncodingContainer"]
+- !private ["11MessagePack01_aB7EncoderC", "UnkeyedContainer"]
+- ["11MessagePack01_aB7EncoderC", "UnkeyedEncodingContainer"]
+- ["11MessagePack01_aB7EncoderC", "_MessagePackEncodingContainer"]
+- !private ["11MessagePack01_aB7EncoderC", "assertCanCreateContainer"]
+- ["11MessagePack01_aB7EncoderC", "codingPath"]
+- ["11MessagePack01_aB7EncoderC", "container"]
+- ["11MessagePack01_aB7EncoderC", "data"]
+- ["11MessagePack01_aB7EncoderC", "deinit"]
+- ["11MessagePack01_aB7EncoderC", "init"]
+- !private ["11MessagePack01_aB7EncoderC", "precondition"]
+- ["11MessagePack01_aB7EncoderC", "singleValueContainer"]
+- ["11MessagePack01_aB7EncoderC", "unkeyedContainer"]
+- ["11MessagePack01_aB7EncoderC", "userInfo"]
+- ["11MessagePack01_aB17EncodingContainerP", "Data"]
+- ["11MessagePack01_aB17EncodingContainerP", "data"]
+- !private ["11MessagePack01_aB17EncodingContainerP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "11MessagePack3BoxV"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "s7EncoderP"
+- !private "SQ"
+- !private "SH"
+- !private "11MessagePack01_aB7EncoderC14KeyedContainerC"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "11MessagePack0aB7EncoderC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sk"
+- !private "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "11MessagePack01_aB7EncoderC20SingleValueContainerC"
+- !private "s28SingleValueEncodingContainerP"
+- "7Combine15TopLevelEncoderP"
+- !private "11MessagePack01_aB7EncoderC16UnkeyedContainerC"
+- !private "s24UnkeyedEncodingContainerP"
+- "11MessagePack01_aB7EncoderC"
+- "11MessagePack01_aB17EncodingContainerP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/HDP_iOS.build/module.modulemap"
+- "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/module.modulemap"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2cacc94db74960f37b671d393f6910b3"

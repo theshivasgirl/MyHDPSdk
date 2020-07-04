@@ -1,0 +1,4 @@
+module MessagePack {
+    header "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/.build/x86_64-apple-macosx/debug/MessagePack.build/MessagePack-Swift.h"
+    requires objc
+}
