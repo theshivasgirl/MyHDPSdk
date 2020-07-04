@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
 options: "dd839ac590029611357534b6224dd00c"
-build_time: [1593841267, 424312000]
+build_time: [1593841764, 601003000]
 inputs:
   "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/IEvent.swift": [1593773782, 281007767]
   "/Users/macbook/Desktop/DummyHDP/MyHDPSdk/Sources/HDP-iOS/common/IOException.swift": [1593773782, 281147242]
